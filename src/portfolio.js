@@ -21,6 +21,7 @@ const about = {
 const projects = [
   {
     name: 'OnlyMind',
+    id: 1,
     description:
       'So basically it was a team project which can help people get appointment with psychologist and psychiatrist so that they can have.',
     stack: ['MongoDb', 'RazorPay', 'ZegoCloud','MERN'],
@@ -29,6 +30,7 @@ const projects = [
   },
   {
     name: 'IoT-Dashboard',
+    id: 2,
     description:
       'Basically Integration of hardware with the software i.e Arduino and other required sensors data integrated with the database to visualise and monitor the values on User Interface.',
     stack: ['pyserial', 'npm', 'jawsdb','google-sheets','express','nodejs'],
@@ -37,6 +39,7 @@ const projects = [
   },
   {
     name: 'TicTacToe',
+    id: 3,
     description:
       'The UI is designed using CSS so it is easy to create. In the game, Player-1 starts playing the game and both players make their moves in consecutive turns. The player who makes a straight 3-block chain wins the game. This game is built on the front-end using simple logic and validation checks only.',
     stack: ['html-css-javascript'],
@@ -45,6 +48,7 @@ const projects = [
   },
   {
     name: 'ToDoList',
+    id: 4,
     description:
       'ToDoList maintains the general tasks we decide to perform and tract them and clear out the ones that got completed. Still no user authentication. But will add that too. It was a beginner project',
     stack: ['Js', 'ejs', 'Node','MondoDb'],
@@ -53,6 +57,7 @@ const projects = [
   },
   {
     name: 'Kiwix',
+    id: 5,
     description:
       'Merged a PR at this open source project. It was a tough task for a beginner but your commitment and strong will can do anything',
     stack: ['html-css-javascript'],
