@@ -2,7 +2,7 @@
   "name": "maneet-khaira-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Maneet-k.github.io/ManeetPortfolio/",
+  "homepage": ["https://Maneet-k.github.io/ManeetPortfolio/" , "maneet-portfolio.vercel.app/"],
   "type": "module",
   "scripts": {
     "dev": "vite",
